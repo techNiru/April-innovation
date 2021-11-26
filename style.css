@@ -59,6 +59,8 @@ header .overlay {
 }
 .detail {
   font-size: medium;
+  text-align: justify;
+  width: 100%;
 }
 .section3 {
   background-color: black;
